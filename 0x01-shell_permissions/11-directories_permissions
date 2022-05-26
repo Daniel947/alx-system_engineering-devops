@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=+rw /tmp |chmod -R g=+r /tmp | chmod -R o=+r /tmp
+chmod -R u=+rwx /tmp |chmod -R g=+r /tmp | chmod -R o=+r /tmp
