@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir |chmod -R u=+rwx my_dir | chmod -R g=+rwx my_dir | chmod -R o=+rx my_dir
+mkdir my_dir |chmod -R u=+rwx my_dir | chmod -R g=+rx my_dir | chmod -R o=+x my_dir
