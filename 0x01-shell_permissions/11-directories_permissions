@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 637 /tmp
+chmod -R 636 /tmp
