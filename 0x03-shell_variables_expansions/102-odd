@@ -1,2 +1,2 @@
 #!/bin/bash 
-read $PERSON |echo "$PERSON"
+read PERSON |echo "$PERSON"
