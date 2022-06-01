@@ -1,2 +1,2 @@
 #!/bin/bash 
-read PERSON |echo "$PERSON"
+ PERSON="ls -1" |echo "$PERSON"
