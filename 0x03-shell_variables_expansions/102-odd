@@ -1,2 +1,2 @@
 #!/bin/bash 
- PERSON="ls -1" |echo "$PERSON"
+ paste -d" "- - | cut " " -f 1

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "He is handsome" |rot13 
+tr 'A-Za-z' N'N-ZA.Mn-za-m' 
